@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'musician_directory',
     'crispy_forms',
     'crispy_bootstrap5',
+    'User_auth',
 ]
 
 CRISPY_ALLOWED_TEMPLATE_PACKS = "bootstrap5"
